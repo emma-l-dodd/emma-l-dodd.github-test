@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   overview:
     title: "Overview"
-    text: "Lorem ipsum"
+    text: "This is extra text"
     section: overview
     list:
       - title: "E-Commerce"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   research:
     title: "My Research"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Research highlights."
     section: research
     closebutton: "Close Project"
 
