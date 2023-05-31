@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: My Research
     buttonlink: "#research"
 
-  overview:
+  services:
     title: "Overview"
     text: "This is extra text"
-    section: overview
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  research:
+  portfolio:
     title: "My Research"
     text: "Research highlights."
-    section: research
+    section: portfolio
     closebutton: "Close Project"
 
   timeline:
