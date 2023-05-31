@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Overview"
-    text: "I am interested in the following areas."
+    text: "I am currenlt a third year PhD student at the Kapteyn Institue, University of Groningen with Prof. Dr. Amina Helmi as my supervisor. "
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Milky Way Assembly History"
+        desc: "I am intersted in studying the Milky Way assembly history through the use of Gaia data and combined with spectrscopic information."
+        icon: fas faGalaxy #find more at https://fontawesome.com/icons
+      - title: "Globular Clusters"
+        desc: "I have a big interest in globular clusters and how we can use these systems to unravel more about galaxy formation."
+        icon: fas faStars
+      - title: "Galactic Dynamics"
+        desc: "Studying the dynamical evolution of galaxies, specifically the Milky Way. "
+        icon: fab fa-solar-system
 
   portfolio:
     title: "My Research"
