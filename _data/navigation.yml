@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   nav:
     - title: "Overview"
-      section: overview
+      section: services
     - title: "My Research"
-      section: research
+      section: portfolio
     - title: "About"
       section: about
     - title: "Timeline"
