@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Emma Dodd
-    text: 
+    title: 
+    text: Emma Dodd
     button: My Research
     buttonlink: "#research"
 
   services:
     title: "Overview"
-    text: "This is extra text"
+    text: "I am interested in the following areas."
     section: services
     list:
       - title: "E-Commerce"
