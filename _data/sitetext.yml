@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: My Research 
+    title: Emma Dodd
     text: 
-    button: Learn More
-    buttonlink: "#overview"
+    button: My Research
+    buttonlink: "#research"
 
   overview:
     title: "Overview"
@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
-    title: "Portfolio"
+  research:
+    title: "My Research"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: research
     closebutton: "Close Project"
 
   timeline:
