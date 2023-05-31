@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 
-    text: Emma Dodd
+    title: Emma Dodd  
+    text: 
     button: My Research
     buttonlink: "#research"
 
